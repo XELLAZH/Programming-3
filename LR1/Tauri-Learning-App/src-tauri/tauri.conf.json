@@ -5,7 +5,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "tauri-test",
+    "productName": "Tauri-Learning-App",
     "version": "0.0.0"
   },
   "tauri": {
@@ -18,9 +18,7 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "resizable": true,
-        "title": "tauri-test",
+        "title": "tauri-learning-app",
         "width": 800,
         "height": 600
       }
